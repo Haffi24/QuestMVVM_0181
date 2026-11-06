@@ -52,3 +52,9 @@ fun FormSiswa(
                 colors = TopAppBarDefaults.mediumTopAppBarColors(colorResource(id = R.color.purple_500)))
         }
     ) { isiRuang ->
+        Column(
+            modifier = Modifier.padding(isiRuang),
+            verticalArrangement = Arrangement.SpaceBetween,
+            horizontalAlignment = Alignment.CenterHorizontally
+        ) {
+            
