@@ -14,7 +14,9 @@ class SiswaViewModel : ViewModel() {
     fun setSiswa(listData: MutableList<String>) {
         _statusUI.update { currentState ->
             currentState.copy(
-                nama = listData[0]
+                nama = listData[0],
+                gender = listData[1],
+
             )
         }
     }
