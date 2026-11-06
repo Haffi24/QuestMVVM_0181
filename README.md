@@ -8,5 +8,5 @@
 <img width="445" height="938" alt="image" src="https://github.com/user-attachments/assets/ce2a625d-7553-4cac-9f26-08099890d194" />
 
 <H2>SS Emulator Kembali</H2>
-<img width="445" height="938" alt="image" src="https://github.com/user-attachments/assets/aa3a076d-3548-4976-90c4-28b086cc8e3f" />
+<img width="443" height="936" alt="image" src="https://github.com/user-attachments/assets/414d2eb6-8823-44e1-bcb1-b6a80f02113b" />
 
